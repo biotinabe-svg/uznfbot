@@ -1,30 +1,1602 @@
 [
   {
-    "quote": "Muvaffaqiyat — bu har kuni kichik harakatlarning yig'indisidir.",
-    "author": "Robert Collier"
-  },
-  {
-    "quote": "Bilim - bu kuch, lekin uni qo'llash - bu donolik.",
+    "quote": "Muvaffaqiyat - bu doimiy harakatning natijasidir.",
     "author": "Albert Eynshteyn"
   },
   {
-    "quote": "Yo'lni bilish bilan yo'lda yurish bir xil emas.",
-    "author": "Morfeus"
+    "quote": "Bilim - kuchdir.",
+    "author": "Frensis Bekon"
   },
   {
-    "quote": "Kelajak bugun nima qilishingizga bog'liq.",
+    "quote": "O'zingga ishonch qo'y, sen o'ylaganingdan kuchlisan.",
+    "author": "Napoleon Xill"
+  },
+  {
+    "quote": "Har bir mutaxassis avval boshlovchi edi.",
+    "author": "Helen Xeys"
+  },
+  {
+    "quote": "Kelajak - bugun qilgan ishlaringning natijasidir.",
     "author": "Mahatma Gandi"
   },
   {
-    "quote": "Eng katta shon-shuhrat hech qachon yiqilmaslikda emas, har yiqilganda qayta turishdadir.",
+    "quote": "Yutuqqa yetish uchun avval tushishga tayyor bo'lish kerak.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "quote": "Vaqt eng qimmatli boylikdir, uni behuda sarflamang.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "quote": "Orzular amalga oshishi uchun avval ko'rilishi kerak.",
+    "author": "Uolt Dizney"
+  },
+  {
+    "quote": "Katta ishlar kichik qadamlardan boshlanadi.",
     "author": "Konfutsiy"
   },
   {
-    "quote": "Vaqtingizni boshqalarning hayotini yashab o'tkazmang.",
+    "quote": "Muvaffaqiyatsizlik - muvaffaqiyatga boradigan yo'lning bir qismidir.",
+    "author": "Tomas Edison"
+  },
+  {
+    "quote": "Aqlli odam boshqalarning xatosidan o'rganadi.",
+    "author": "Aflotun"
+  },
+  {
+    "quote": "Sabr - achchiq, lekin mevasi shirin.",
+    "author": "Aristotel"
+  },
+  {
+    "quote": "O'zini bilgan kishi hamma narsani biladi.",
+    "author": "Ibn Sino"
+  },
+  {
+    "quote": "Ilm - abadiy davlat, boylik esa vaqtinchalik.",
+    "author": "Abu Rayhon Beruniy"
+  },
+  {
+    "quote": "Vatanni sevish - imondandir.",
+    "author": "Alisher Navoiy"
+  },
+  {
+    "quote": "Yaxshilik qil, daryoga tashla, baliq bilmasa, xoliq biladi.",
+    "author": "Sharq maqoli"
+  },
+  {
+    "quote": "Bilim olish uchun hech qachon kech emas.",
+    "author": "Konfutsiy"
+  },
+  {
+    "quote": "Kim ko'p mehnat qilsa, shuncha ko'p yutadi.",
+    "author": "Ulug'bek"
+  },
+  {
+    "quote": "Adolat - davlatning ustuni.",
+    "author": "Amir Temur"
+  },
+  {
+    "quote": "Kuch - adolatda, adolat esa haqiqatda.",
+    "author": "Amir Temur"
+  },
+  {
+    "quote": "Har bir inson o'z taqdirining me'морidir.",
+    "author": "Sallyust"
+  },
+  {
+    "quote": "Zulmat qanchalik qalin bo'lmasin, yorug'lik uni yengadi.",
+    "author": "Konfutsiy"
+  },
+  {
+    "quote": "Muhabbatsiz hayot - ma'nosiz hayotdir.",
+    "author": "Jaloliddin Rumiy"
+  },
+  {
+    "quote": "Yurak ko'zi ko'rmagan narsani aql ko'ra olmaydi.",
+    "author": "Jaloliddin Rumiy"
+  },
+  {
+    "quote": "Sen o'zing izlagan narsa - sening o'zingdasan.",
+    "author": "Jaloliddin Rumiy"
+  },
+  {
+    "quote": "Yaralar bitadi, lekin yaxshi so'z abadiy qoladi.",
+    "author": "Sharq hikmati"
+  },
+  {
+    "quote": "Kim sabr qilsa, murodiga yetadi.",
+    "author": "Xalq maqoli"
+  },
+  {
+    "quote": "Yorug' kelajak - bugungi mehnat mevasi.",
+    "author": "Yaponiya maqoli"
+  },
+  {
+    "quote": "Insonning qadri - uning ilmidadir.",
+    "author": "Ali ibn Abu Tolib"
+  },
+  {
+    "quote": "Kambag'allik - aql yetishmasligi emas, imkoniyat yetishmasligidir.",
+    "author": "Bill Geyts"
+  },
+  {
+    "quote": "Men muvaffaqiyatsizlikka uchramadim, faqat 10 000 usul ishlamasligini bilib oldim.",
+    "author": "Tomas Edison"
+  },
+  {
+    "quote": "Har kuni biror narsa o'rganmagan kun - behuda o'tgan kundir.",
+    "author": "Konfutsiy"
+  },
+  {
+    "quote": "Kichik imkoniyatlar ko'pincha katta ishlarning boshlanishi bo'ladi.",
+    "author": "Demosfen"
+  },
+  {
+    "quote": "Fikringizni o'zgartiring, hayotingiz o'zgaradi.",
+    "author": "Norman Vinsent Pil"
+  },
+  {
+    "quote": "Kim o'zini yenga olsa, u eng kuchli insondir.",
+    "author": "Lao Szi"
+  },
+  {
+    "quote": "Yaxshi niyat - yarim yumushdir.",
+    "author": "Xalq maqoli"
+  },
+  {
+    "quote": "Bilim daraxtining mevasi - amaliyotdir.",
+    "author": "Abu Ali ibn Sino"
+  },
+  {
+    "quote": "Insonni ulug'lovchi narsa - uning mehnatidir.",
+    "author": "Farobiy"
+  },
+  {
+    "quote": "Ilmsiz din - ko'r, dinsiz ilm - oqsoqdir.",
+    "author": "Albert Eynshteyn"
+  },
+  {
+    "quote": "Tinchlik - kuchning yuqori shakli.",
+    "author": "Mahatma Gandi"
+  },
+  {
+    "quote": "Kim ko'p savol bersa, ko'p biladi.",
+    "author": "Frensis Bekon"
+  },
+  {
+    "quote": "Halollik - eng yaxshi siyosatdir.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "quote": "Har bir kun - yangi imkoniyat.",
+    "author": "Xalq hikmati"
+  },
+  {
+    "quote": "Ishonch - muvaffaqiyatning yarmi.",
+    "author": "Ralf Uoldo Emerson"
+  },
+  {
+    "quote": "Kelajak unga ishonganlarga tegishlidir.",
+    "author": "Eleanor Ruzvelt"
+  },
+  {
+    "quote": "Muvaffaqiyat - tayyorgarlik imkoniyat bilan uchrashganda paydo bo'ladi.",
+    "author": "Seneka"
+  },
+  {
+    "quote": "O'zingga bo'lgan ishonchni yo'qotma, u seni maqsadga olib boradi.",
+    "author": "Volter"
+  },
+  {
+    "quote": "Har bir buyuk ish - kichik boshlanishdan katta bo'ladi.",
+    "author": "Rim maqoli"
+  },
+  {
+    "quote": "Kim yiqilishdan qo'rqmasa, u hech qachon yiqilmaydi.",
+    "author": "Konfutsiy"
+  },
+  {
+    "quote": "Bilim - eng katta boylik, uni hech kim o'g'irlay olmaydi.",
+    "author": "Sharq hikmati"
+  },
+  {
+    "quote": "Yaxshi kitob - eng yaxshi do'st.",
+    "author": "Xalq maqoli"
+  },
+  {
+    "quote": "Mehnat qilmagan - non yemasin.",
+    "author": "Xalq maqoli"
+  },
+  {
+    "quote": "Sabr tokidan sabr uzumi uziladi.",
+    "author": "Xalq maqoli"
+  },
+  {
+    "quote": "Aqlli dushman, ahmoq do'stdan yaxshiroqdir.",
+    "author": "Sharq maqoli"
+  },
+  {
+    "quote": "O'z vaqtida aytilgan so'z - oltindan qimmat.",
+    "author": "Sharq hikmati"
+  },
+  {
+    "quote": "Kim boshqalarga yordam bersa, o'ziga ham yordam bergan bo'ladi.",
+    "author": "Xalq hikmati"
+  },
+  {
+    "quote": "Yolg'iz daraxt o'rmon bo'lmaydi.",
+    "author": "Xitoy maqoli"
+  },
+  {
+    "quote": "Katta daryo ham kichik buloqdan boshlanadi.",
+    "author": "Xitoy maqoli"
+  },
+  {
+    "quote": "Ming mil yo'l bir qadamdan boshlanadi.",
+    "author": "Lao Szi"
+  },
+  {
+    "quote": "O'zgarish - hayotning yagona doimiy qonuniyatidir.",
+    "author": "Geraklit"
+  },
+  {
+    "quote": "Bilim - yo'l, amal - manzil.",
+    "author": "Ibn Sino"
+  },
+  {
+    "quote": "Har bir muvaffaqiyat orqasida ko'plab muvaffaqiyatsizliklar yashiringan.",
+    "author": "Maykl Jordan"
+  },
+  {
+    "quote": "Men to'xtamayman, chunki men hali maqsadimga yetmadim.",
+    "author": "Maykl Jordan"
+  },
+  {
+    "quote": "Cho'chib qolgan kishi hech qachon g'olib bo'lolmaydi.",
+    "author": "Muhammad Ali"
+  },
+  {
+    "quote": "Imkoniyatlar hech qachon yo'qolmaydi, ular boshqa birov tomonidan qo'lga olinadi.",
+    "author": "Tomas Edison"
+  },
+  {
+    "quote": "Aqlli odam o'z xatolaridan, dono odam boshqalarning xatolaridan o'rganadi.",
+    "author": "Otto fon Bismark"
+  },
+  {
+    "quote": "Chidamlilik - muvaffaqiyatning kaliti.",
+    "author": "Naполеон Bonapart"
+  },
+  {
+    "quote": "Katta orzular katta insonlarni yaratadi.",
+    "author": "Naполеон Bonapart"
+  },
+  {
+    "quote": "Kim maqsadga ega bo'lsa, yo'lni topadi.",
+    "author": "Fridrix Nitsshe"
+  },
+  {
+    "quote": "Hayot - bu siz band bo'lganingizda sodir bo'ladigan narsa.",
+    "author": "Jon Lennon"
+  },
+  {
+    "quote": "Yaxshi niyat bilan qilingan ish hech qachon zoye ketmaydi.",
+    "author": "Ralf Uoldo Emerson"
+  },
+  {
+    "quote": "Muvaffaqiyat - bu tugallanmagan yo'lning davomi.",
+    "author": "Uinston Cherchill"
+  },
+  {
+    "quote": "Muvaffaqiyatsizlik - yakuniy emas, davom etish jasorati muhimroq.",
+    "author": "Uinston Cherchill"
+  },
+  {
+    "quote": "Optimist - har qiyinchilikda imkoniyat ko'radi.",
+    "author": "Uinston Cherchill"
+  },
+  {
+    "quote": "Kelajakni bashorat qilishning eng yaxshi yo'li - uni yaratishdir.",
+    "author": "Piter Draker"
+  },
+  {
+    "quote": "Yaxshi rahbar - yo'l ko'rsatuvchi, buyruq beruvchi emas.",
+    "author": "Piter Draker"
+  },
+  {
+    "quote": "Innovatsiya - liderlik va izdoshlar o'rtasidagi farqdir.",
     "author": "Stiv Jobs"
   },
   {
-    "quote": "Ishoning, siz o'ylaganingizdan ancha kuchlisiz.",
-    "author": "A.A. Milne"
+    "quote": "Vaqtingiz cheklangan, shuning uchun boshqa birovning hayotini yashab o'tirmang.",
+    "author": "Stiv Jobs"
+  },
+  {
+    "quote": "Ishingizni sevib qiling, aks holda u hech qachon ajoyib bo'lmaydi.",
+    "author": "Stiv Jobs"
+  },
+  {
+    "quote": "Doim ochko'z, doim ahmoq bo'ling.",
+    "author": "Stiv Jobs"
+  },
+  {
+    "quote": "Muvaffaqiyat - har kuni takrorlanadigan kichik harakatlar yig'indisi.",
+    "author": "Robert Kollier"
+  },
+  {
+    "quote": "Sizning tashqi dunyoingiz - ichki dunyoingizning aksidir.",
+    "author": "Zig Ziglar"
+  },
+  {
+    "quote": "Odam nima deb o'ylashidan qat'i nazar, harakat qilishda davom eting.",
+    "author": "Zig Ziglar"
+  },
+  {
+    "quote": "Katta maqsadlar qo'ying, chunki kichik maqsadlar kichik natijalar beradi.",
+    "author": "Zig Ziglar"
+  },
+  {
+    "quote": "Motivatsiya sizni boshlaydi, odat sizni davom ettiradi.",
+    "author": "Jim Ryun"
+  },
+  {
+    "quote": "Har kuni bir foiz yaxshilaning, yiliga 37 barobar yaxshi bo'lasiz.",
+    "author": "Jeyms Klir"
+  },
+  {
+    "quote": "Belgilangan maqsadlarsiz, odam kemasiz suzayotgan kabidir.",
+    "author": "Fitzhyu Dodson"
+  },
+  {
+    "quote": "Buyuk ishlar hech qachon qulaylik zonasida qilinmaydi.",
+    "author": "Nil Donald Uolsh"
+  },
+  {
+    "quote": "Har qanday qiyinchilik - o'sish uchun yashirin imkoniyatdir.",
+    "author": "Nepolean Xill"
+  },
+  {
+    "quote": "Fikr - harakatning onasi.",
+    "author": "Ralf Uoldo Emerson"
+  },
+  {
+    "quote": "O'z-o'ziga ishonish - buyuk ishlarning birinchi siridir.",
+    "author": "Ralf Uoldo Emerson"
+  },
+  {
+    "quote": "Do'stlik - ikki tan, bir jon.",
+    "author": "Aristotel"
+  },
+  {
+    "quote": "Baxt - o'z ichingizda, uni tashqarida qidirmang.",
+    "author": "Buddha"
+  },
+  {
+    "quote": "G'azab - o'zingizga zahar ichib, boshqaning o'lishini kutgandek gap.",
+    "author": "Buddha"
+  },
+  {
+    "quote": "Ming chiroq bir chiroqdan yonadi, baxt esa uni ulashgandan ortadi.",
+    "author": "Buddha"
+  },
+  {
+    "quote": "Har bir kun - yangi tug'ilish, har bir quyosh botishi - kichik o'lim.",
+    "author": "Sharq hikmati"
+  },
+  {
+    "quote": "O'zini yenga olmagan kishi, boshqalarni ham yenga olmaydi.",
+    "author": "Konfutsiy"
+  },
+  {
+    "quote": "Yaxshi so'z - qishning quyoshidek.",
+    "author": "Rus maqoli"
+  },
+  {
+    "quote": "Kim ko'p o'qisa, ko'p biladi, kim ko'p bilsa, kam gapiradi.",
+    "author": "Sharq hikmati"
+  },
+  {
+    "quote": "Aql - dilning chirog'i.",
+    "author": "Alisher Navoiy"
+  },
+  {
+    "quote": "Insonni inson qiladigan narsa - uning ilmi va odobidir.",
+    "author": "Alisher Navoiy"
+  },
+  {
+    "quote": "Do'stni ko'p sinama, sinasang ham, ayb qidirma.",
+    "author": "Alisher Navoiy"
+  },
+  {
+    "quote": "El-yurt manfaatidan ustun turadigan narsa yo'q.",
+    "author": "Alisher Navoiy"
+  },
+  {
+    "quote": "Sabr qilgan murodiga yetibdi.",
+    "author": "Alisher Navoiy"
+  },
+  {
+    "quote": "Bilim insonni yuksaltiradi, jaholat esa pastga tortadi.",
+    "author": "Abu Ali ibn Sino"
+  },
+  {
+    "quote": "Tabobat ilmi - jasadni, falsafa esa ruhni davolaydi.",
+    "author": "Abu Ali ibn Sino"
+  },
+  {
+    "quote": "Har bir davolash so'zdan boshlanadi.",
+    "author": "Abu Ali ibn Sino"
+  },
+  {
+    "quote": "Yer yuzida eng qimmatli narsa - vaqtdir.",
+    "author": "Abu Rayhon Beruniy"
+  },
+  {
+    "quote": "Ilm-fan - insoniyatning eng buyuk merosi.",
+    "author": "Abu Rayhon Beruniy"
+  },
+  {
+    "quote": "Haqiqat - hamma narsadan qimmatli.",
+    "author": "Muhammad al-Xorazmiy"
+  },
+  {
+    "quote": "Adolatli hukmdor - xalqning quyoshidir.",
+    "author": "Amir Temur"
+  },
+  {
+    "quote": "Kuch - birlikda.",
+    "author": "Amir Temur"
+  },
+  {
+    "quote": "Men jasoratni sinovlarda ko'rsatdim, so'zlarda emas.",
+    "author": "Amir Temur"
+  },
+  {
+    "quote": "Ilm-fan rivoji - davlat rivojining kalitidir.",
+    "author": "Mirzo Ulug'bek"
+  },
+  {
+    "quote": "Osmon sirlarini bilish uchun aql zarur, imon esa yo'ldir.",
+    "author": "Mirzo Ulug'bek"
+  },
+  {
+    "quote": "Yaxshi ish qil, kim qilganini so'ramasin.",
+    "author": "Xalq hikmati"
+  },
+  {
+    "quote": "Yomonlikka yaxshilik bilan javob ber.",
+    "author": "Xalq hikmati"
+  },
+  {
+    "quote": "Ota-ona duosi - eng katta boylik.",
+    "author": "Xalq hikmati"
+  },
+  {
+    "quote": "Til bilgan - el biladi.",
+    "author": "O'zbek maqoli"
+  },
+  {
+    "quote": "Mehnat - baxt kaliti.",
+    "author": "O'zbek maqoli"
+  },
+  {
+    "quote": "Do'st achitib gapiradi, dushman kuldirib.",
+    "author": "O'zbek maqoli"
+  },
+  {
+    "quote": "Bilagi zo'r birni yiqitar, bilimi zo'r mingni yiqitar.",
+    "author": "O'zbek maqoli"
+  },
+  {
+    "quote": "Yaxshidan ot qoladi, yomondan dod.",
+    "author": "O'zbek maqoli"
+  },
+  {
+    "quote": "Ko'p bilgan ko'p yashaydi.",
+    "author": "O'zbek maqoli"
+  },
+  {
+    "quote": "Vatan - oltin beshik.",
+    "author": "O'zbek maqoli"
+  },
+  {
+    "quote": "Kim bilim izlasa, uni topadi.",
+    "author": "O'zbek maqoli"
+  },
+  {
+    "quote": "Odam bo'lish - qiyin, odamgarchilik - qiyinroq.",
+    "author": "O'zbek hikmati"
+  },
+  {
+    "quote": "Aqlli odam o'z ustidan kuladi, ahmoq boshqalar ustidan.",
+    "author": "Sharq hikmati"
+  },
+  {
+    "quote": "Har kim o'z baxtining chegarasini o'zi belgilaydi.",
+    "author": "Fridrix Nitsshe"
+  },
+  {
+    "quote": "Kim nima uchun yashashni bilsa, deyarli har qanday qanday yashashga chidaydi.",
+    "author": "Fridrix Nitsshe"
+  },
+  {
+    "quote": "Sizni o'ldirmagan narsa sizni kuchliroq qiladi.",
+    "author": "Fridrix Nitsshe"
+  },
+  {
+    "quote": "Insonning buyukligi - uning maqsadidadir, natijasida emas.",
+    "author": "Fridrix Nitsshe"
+  },
+  {
+    "quote": "Hayotning ma'nosi - uni topishga urinishdir.",
+    "author": "Viktor Frankl"
+  },
+  {
+    "quote": "Erkinlik - mas'uliyat bilan birga keladi.",
+    "author": "Viktor Frankl"
+  },
+  {
+    "quote": "Insonlar orasidagi eng katta farq - ularning maqsadlaridadir.",
+    "author": "Ziglar"
+  },
+  {
+    "quote": "O'z fikringizni nazorat qiling, chunki u sizning taqdiringizga aylanadi.",
+    "author": "Lao Szi"
+  },
+  {
+    "quote": "Yaxshi sayohatchi rejasi yo'q va yetib borishga shoshilmaydi.",
+    "author": "Lao Szi"
+  },
+  {
+    "quote": "Bilganingni bilaman deb, bilmaganingni bilmayman deyish - bu bilimdir.",
+    "author": "Konfutsiy"
+  },
+  {
+    "quote": "Yaxshi inson - avval o'z ishini qiladi, keyin so'zlaydi.",
+    "author": "Konfutsiy"
+  },
+  {
+    "quote": "Kim harakat qilsa, adashishi ham mumkin, lekin hech narsa qilmagan hech qachon adashmaydi va hech narsaga ham erishmaydi.",
+    "author": "Bернард Shou"
+  },
+  {
+    "quote": "Aqlli odamlar dunyoga moslashadi, aqlsizlar dunyoni o'zlariga moslashtirmoqchi bo'ladi.",
+    "author": "Bернард Shou"
+  },
+  {
+    "quote": "Taraqqiyot - o'zgarishsiz mumkin emas.",
+    "author": "Bернард Shou"
+  },
+  {
+    "quote": "Kulgi - eng yaxshi dori.",
+    "author": "Xalq hikmati"
+  },
+  {
+    "quote": "Sog'lom tanda - sog'lom aql.",
+    "author": "Rim maqoli"
+  },
+  {
+    "quote": "Bilim olish uchun sayohat qiling, hatto Xitoygacha bo'lsa ham.",
+    "author": "Hadis"
+  },
+  {
+    "quote": "Ota-onaga yaxshilik qilish - jannat kalitidir.",
+    "author": "Hadis"
+  },
+  {
+    "quote": "Eng yaxshi inson - odamlarga foyda keltiradigan insondir.",
+    "author": "Hadis"
+  },
+  {
+    "quote": "Kimki bir yo'l bilan ilm izlab yursa, Alloh unga jannatga yo'l osonlashtiradi.",
+    "author": "Hadis"
+  },
+  {
+    "quote": "Muvaffaqiyat tasodif emas - u tanlov, mehnat va sabr natijasidir.",
+    "author": "Pele"
+  },
+  {
+    "quote": "G'alaba - ko'p marta yiqilib, har safar turgan insonlarga tegishlidir.",
+    "author": "Vince Lombardi"
+  },
+  {
+    "quote": "Jasorat - qo'rquvning yo'qligi emas, undan ustun kelishdir.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "quote": "Men hech qachon yutqazmadim, faqat g'alaba qozonishni yoki o'rganishni bilaman.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "quote": "Ta'lim - dunyoni o'zgartirish uchun eng kuchli qurol.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "quote": "Boshqalarga xizmat qilish - yer yuzida to'lanadigan ijaradir.",
+    "author": "Muhammad Ali"
+  },
+  {
+    "quote": "Imkoniyatsiz - bu shunchaki katta so'z, kichik odamlar aytadi.",
+    "author": "Muhammad Ali"
+  },
+  {
+    "quote": "Kim kurashdan qochsa, g'alabani ham qo'ldan boy beradi.",
+    "author": "Muhammad Ali"
+  },
+  {
+    "quote": "Sen g'olib bo'lasan, agar to'xtamasang.",
+    "author": "Naполеон Xill"
+  },
+  {
+    "quote": "Har bir muvaffaqiyatsizlik o'zi bilan teng yoki kattaroq foyda urug'ini olib keladi.",
+    "author": "Naполеон Xill"
+  },
+  {
+    "quote": "Aniq maqsad - muvaffaqiyatning boshlanish nuqtasi.",
+    "author": "Naполеон Xill"
+  },
+  {
+    "quote": "Fikrlaringiz - dunyongizning me'mori.",
+    "author": "Naполеон Xill"
+  },
+  {
+    "quote": "Boy bo'lish uchun avval boy fikrlash kerak.",
+    "author": "Naполеон Xill"
+  },
+  {
+    "quote": "Kim ishonsa, erishadi.",
+    "author": "Naполеон Xill"
+  },
+  {
+    "quote": "Pul baxtni sotib olmaydi, lekin qulaylikni ta'minlaydi.",
+    "author": "Uorren Baffet"
+  },
+  {
+    "quote": "Obro'ni qurish 20 yil, yo'qotish esa 5 daqiqa vaqt oladi.",
+    "author": "Uorren Baffet"
+  },
+  {
+    "quote": "Boshqalar ochko'z bo'lganda ehtiyot bo'ling, ehtiyot bo'lganlarida ochko'z bo'ling.",
+    "author": "Uorren Baffet"
+  },
+  {
+    "quote": "Investitsiya qilishning eng yaxshi yo'li - o'zingizga investitsiya qilishdir.",
+    "author": "Uorren Baffet"
+  },
+  {
+    "quote": "Muvaffaqiyat - sevgan ishingizni qilib, undan zavq olishdir.",
+    "author": "Uorren Baffet"
+  },
+  {
+    "quote": "Har qanday tashkilotning eng katta boyligi - uning odamlaridir.",
+    "author": "Genri Ford"
+  },
+  {
+    "quote": "Fikringizni o'zgartirsangiz, dunyongiz o'zgaradi.",
+    "author": "Genri Ford"
+  },
+  {
+    "quote": "Muvaffaqiyatning siri - to'xtamaslikdir.",
+    "author": "Genri Ford"
+  },
+  {
+    "quote": "Bilasiz deb o'ylagan kishi hech narsa o'rgana olmaydi.",
+    "author": "Genri Ford"
+  },
+  {
+    "quote": "Birlashish - boshlanish, birga qolish - taraqqiyot, birga ishlash - muvaffaqiyat.",
+    "author": "Genri Ford"
+  },
+  {
+    "quote": "Tajriba - eng yaxshi o'qituvchi, lekin uning dars haqi qimmat.",
+    "author": "Tomas Karleyl"
+  },
+  {
+    "quote": "Katta insonlar g'oyalarni, o'rtacha insonlar voqealarni, kichik insonlar boshqa odamlarni muhokama qiladi.",
+    "author": "Eleanor Ruzvelt"
+  },
+  {
+    "quote": "Hech kim sizning roziligingizsiz sizni past his qildira olmaydi.",
+    "author": "Eleanor Ruzvelt"
+  },
+  {
+    "quote": "Kelajak haqidagi qo'rquvingizdan ko'ra, uni yaratishga vaqt sarflang.",
+    "author": "Eleanor Ruzvelt"
+  },
+  {
+    "quote": "Yaxshi ishlarni boshlash uchun mukammal bo'lish shart emas.",
+    "author": "Zig Ziglar"
+  },
+  {
+    "quote": "Sizga imkoniyat berilmasa, uni o'zingiz yarating.",
+    "author": "Madam Kyuri"
+  },
+  {
+    "quote": "Hayotda qo'rqadigan hech narsa yo'q, faqat tushunish kerak bo'lgan narsalar bor.",
+    "author": "Mariya Kyuri"
+  },
+  {
+    "quote": "Ilm-fan - go'zallik va foyda bir joyda mujassam bo'lgan sohadir.",
+    "author": "Mariya Kyuri"
+  },
+  {
+    "quote": "Kim tinim bilmasa, u hech qachon charchamaydi.",
+    "author": "Mariya Kyuri"
+  },
+  {
+    "quote": "Xayolot bilimdan muhimroqdir, chunki bilim cheklangan.",
+    "author": "Albert Eynshteyn"
+  },
+  {
+    "quote": "Aqlli odam muammoni hal qiladi, dono odam uni oldindan oldini oladi.",
+    "author": "Albert Eynshteyn"
+  },
+  {
+    "quote": "Hayot - velosipedga o'xshaydi, muvozanatni saqlash uchun harakatda bo'lish kerak.",
+    "author": "Albert Eynshteyn"
+  },
+  {
+    "quote": "Men kelajak haqida hech qachon o'ylamayman, u tez orada o'zi keladi.",
+    "author": "Albert Eynshteyn"
+  },
+  {
+    "quote": "Muvaffaqiyatli odam emas, qiymatli odam bo'lishga harakat qiling.",
+    "author": "Albert Eynshteyn"
+  },
+  {
+    "quote": "Aqldan ko'ra tasavvur kuchliroqdir.",
+    "author": "Albert Eynshteyn"
+  },
+  {
+    "quote": "Doimo o'sha ishni qilib, boshqa natija kutish - aqldan ozganlikdir.",
+    "author": "Albert Eynshteyn"
+  },
+  {
+    "quote": "Yulduzlarga qarash uchun ba'zan tuproqdan boshingizni ko'tarish kerak.",
+    "author": "Stiven Xoking"
+  },
+  {
+    "quote": "Aql - o'zgarishlarga moslashuvchanlikdir.",
+    "author": "Stiven Xoking"
+  },
+  {
+    "quote": "Eng katta dushman - bilmaslik emas, bilaman deb o'ylashdir.",
+    "author": "Stiven Xoking"
+  },
+  {
+    "quote": "Hayot bo'lgan joyda umid bor.",
+    "author": "Stiven Xoking"
+  },
+  {
+    "quote": "Yulduzlar orasidagi masofa bizni to'xtatmasligi kerak.",
+    "author": "Karl Sagan"
+  },
+  {
+    "quote": "Biz koinotning o'zini o'rganish usuliмиз.",
+    "author": "Karl Sagan"
+  },
+  {
+    "quote": "Bilim olamiz kengaygan sari, jaholat chegaralari ham kengayadi.",
+    "author": "Karl Sagan"
+  },
+  {
+    "quote": "Tabiat - eng buyuk kitob.",
+    "author": "Leonardo da Vinchi"
+  },
+  {
+    "quote": "Oddiylik - murakkablikning yakuniy shaklidir.",
+    "author": "Leonardo da Vinchi"
+  },
+  {
+    "quote": "O'rganishni to'xtatgan kishi qarigan hisoblanadi, u yigirma yoshda ham, sakson yoshda ham bo'lishi mumkin.",
+    "author": "Genri Ford"
+  },
+  {
+    "quote": "San'at - jonning tili.",
+    "author": "Leonardo da Vinchi"
+  },
+  {
+    "quote": "Hech narsa kuchliroq emas, sabrdan ko'ra.",
+    "author": "Leonardo da Vinchi"
+  },
+  {
+    "quote": "Go'zallik - ko'zning bahridir.",
+    "author": "Uilyam Shekspir"
+  },
+  {
+    "quote": "Butun dunyo - bir sahna, biz esa unda aktyorlarmiz.",
+    "author": "Uilyam Shekspir"
+  },
+  {
+    "quote": "Aql - eng yaxshi qurol.",
+    "author": "Uilyam Shekspir"
+  },
+  {
+    "quote": "Muhabbat - ko'r emas, faqat ko'proq ko'radi.",
+    "author": "Uilyam Shekspir"
+  },
+  {
+    "quote": "O'zingga sodiq bo'l, shunda hech kimga xiyonat qilmaysan.",
+    "author": "Uilyam Shekspir"
+  },
+  {
+    "quote": "Yaxshilik hech qachon zoye ketmaydi.",
+    "author": "Ezop"
+  },
+  {
+    "quote": "Kichik do'stlar katta do'stlarga aylanishi mumkin.",
+    "author": "Ezop"
+  },
+  {
+    "quote": "Birlik - kuch beradi.",
+    "author": "Ezop"
+  },
+  {
+    "quote": "Sekin-asta yurgan, tez yurganidan ko'ra oldinroq yetib boradi.",
+    "author": "Ezop (Toshbaqa va quyon)"
+  },
+  {
+    "quote": "Har bir inson o'z baxtining me'mori.",
+    "author": "Sallyust"
+  },
+  {
+    "quote": "Yaxshi niyat - yarim ishning bajarilishi.",
+    "author": "Sitseron"
+  },
+  {
+    "quote": "Do'stlik - hayotning quyoshi.",
+    "author": "Sitseron"
+  },
+  {
+    "quote": "Vaqt - eng yaxshi shifokor.",
+    "author": "Menandr"
+  },
+  {
+    "quote": "Muvaffaqiyat - tayyorgarlikning bolasi.",
+    "author": "Seneka"
+  },
+  {
+    "quote": "Baxtli hayot - tabiatga muvofiq yashashdir.",
+    "author": "Seneka"
+  },
+  {
+    "quote": "Hayot uzun emas, agar biz uni yaxshi ishlata olmasak.",
+    "author": "Seneka"
+  },
+  {
+    "quote": "Har bir kun - yangi hayot.",
+    "author": "Seneka"
+  },
+  {
+    "quote": "Qiyinchiliklar insonni yo'q qilmaydi, uni shakllantiradi.",
+    "author": "Seneka"
+  },
+  {
+    "quote": "Bilim - hokimiyatdan ustun.",
+    "author": "Sokrat"
+  },
+  {
+    "quote": "Men bilaman, hech narsa bilmasligimni.",
+    "author": "Sokrat"
+  },
+  {
+    "quote": "O'rganilmagan hayot - yashashga arzimaydi.",
+    "author": "Sokrat"
+  },
+  {
+    "quote": "Kuchli fikrlar - kuchli insonlarni yaratadi.",
+    "author": "Sokrat"
+  },
+  {
+    "quote": "Har bir inson - o'z hayotining muallifi.",
+    "author": "Aflotun"
+  },
+  {
+    "quote": "Adolat - eng katta fazilat.",
+    "author": "Aflotun"
+  },
+  {
+    "quote": "Musiqa - ruhning ovozidir.",
+    "author": "Aflotun"
+  },
+  {
+    "quote": "Bilim - ruhning ozig'i.",
+    "author": "Aflotun"
+  },
+  {
+    "quote": "O'zini yenga olmagan hech kimni yenga olmaydi.",
+    "author": "Aristotel"
+  },
+  {
+    "quote": "Baxt - insonning eng yuksak maqsadidir.",
+    "author": "Aristotel"
+  },
+  {
+    "quote": "Bilim - eng katta lazzat manbai.",
+    "author": "Aristotel"
+  },
+  {
+    "quote": "Odat - ikkinchi tabiat.",
+    "author": "Aristotel"
+  },
+  {
+    "quote": "O'rtacha yo'l - eng to'g'ri yo'l.",
+    "author": "Aristotel"
+  },
+  {
+    "quote": "Do'stlik - ikkita tan, bitta jon.",
+    "author": "Aristotel"
+  },
+  {
+    "quote": "Bilim olishning yagona yo'li - amaliyotdir.",
+    "author": "Aristotel"
+  },
+  {
+    "quote": "Kim o'zini past baholasa, boshqalar ham uni past baholaydi.",
+    "author": "Konfutsiy"
+  },
+  {
+    "quote": "Yaxshi hukumat - odamlarni baxtli qiladigan hukumatdir.",
+    "author": "Konfutsiy"
+  },
+  {
+    "quote": "Kim kelajakni o'ylamasa, yaqin kelajakda qiynaladi.",
+    "author": "Konfutsiy"
+  },
+  {
+    "quote": "Bilim olish - toshni o'yish kabidir, sekin lekin doimiy.",
+    "author": "Konfutsiy"
+  },
+  {
+    "quote": "Yomon niyat - yomon natijaning onasidir.",
+    "author": "Konfutsiy"
+  },
+  {
+    "quote": "Muvaffaqiyat - tayyorgarlik va imkoniyat uchrashuvi.",
+    "author": "Seneka"
+  },
+  {
+    "quote": "Hayotda eng katta shon-shuhrat - hech qachon yiqilmaslik emas, har safar yiqilganda turishdadir.",
+    "author": "Konfutsiy"
+  },
+  {
+    "quote": "Bilim - chiroq, jaholat - zulmat.",
+    "author": "Sharq hikmati"
+  },
+  {
+    "quote": "Kim ko'p savol bersa, adashmaydi.",
+    "author": "Sharq hikmati"
+  },
+  {
+    "quote": "Aql - ko'zning ko'rmagan narsasini ko'radi.",
+    "author": "Sharq hikmati"
+  },
+  {
+    "quote": "Yaxshi so'z - yarim davo.",
+    "author": "Sharq hikmati"
+  },
+  {
+    "quote": "Ilmsiz amal - ko'r, amalsiz ilm - foydasiz.",
+    "author": "Sharq hikmati"
+  },
+  {
+    "quote": "Vatanga xizmat qilish - eng oliy burch.",
+    "author": "Sharq hikmati"
+  },
+  {
+    "quote": "Insonning qadri - uning ahdiga vafosidadir.",
+    "author": "Sharq hikmati"
+  },
+  {
+    "quote": "Kambag'allik - aql yo'qligidan emas, imkoniyat yo'qligidandir.",
+    "author": "Sharq hikmati"
+  },
+  {
+    "quote": "Yaxshi niyat bilan qilingan ish albatta samara beradi.",
+    "author": "Sharq hikmati"
+  },
+  {
+    "quote": "Til - fikrning ko'zgusidir.",
+    "author": "Sharq hikmati"
+  },
+  {
+    "quote": "Kim ko'p o'ylasa, kam adashadi.",
+    "author": "Sharq hikmati"
+  },
+  {
+    "quote": "Sabr - kalitlarning eng yaxshisidir.",
+    "author": "Sharq hikmati"
+  },
+  {
+    "quote": "Muhabbat - ikki qalbning bitta nafas olishidir.",
+    "author": "Jaloliddin Rumiy"
+  },
+  {
+    "quote": "Sen o'zing izlagan olam - allaqachon sen ichingdadir.",
+    "author": "Jaloliddin Rumiy"
+  },
+  {
+    "quote": "Yaralaringiz - yorug'lik kirib keladigan joydir.",
+    "author": "Jaloliddin Rumiy"
+  },
+  {
+    "quote": "Nur bilan yur, soyangdan qo'rqma.",
+    "author": "Jaloliddin Rumiy"
+  },
+  {
+    "quote": "Har bir tong - yangidan boshlash imkoniyati.",
+    "author": "Jaloliddin Rumiy"
+  },
+  {
+    "quote": "Sukut - ba'zan eng yaxshi javobdir.",
+    "author": "Jaloliddin Rumiy"
+  },
+  {
+    "quote": "O'zingni izlash - eng uzoq safardir.",
+    "author": "Jaloliddin Rumiy"
+  },
+  {
+    "quote": "Qalbingdagi yorug'likni hech kim o'chira olmaydi.",
+    "author": "Jaloliddin Rumiy"
+  },
+  {
+    "quote": "Kim ko'p sevsa, ko'p yashaydi.",
+    "author": "Jaloliddin Rumiy"
+  },
+  {
+    "quote": "Har bir gul o'z vaqtida ochiladi.",
+    "author": "Jaloliddin Rumiy"
+  },
+  {
+    "quote": "Yomonlikni yaxshilik bilan yenging.",
+    "author": "Hazrat Ali"
+  },
+  {
+    "quote": "Bilim - amал bilan qiymat topadi.",
+    "author": "Hazrat Ali"
+  },
+  {
+    "quote": "Dunyoning eng boy odami - kanoatli odamdir.",
+    "author": "Hazrat Ali"
+  },
+  {
+    "quote": "Aql - insonning eng yaxshi do'sti.",
+    "author": "Hazrat Ali"
+  },
+  {
+    "quote": "Sabr - g'alabaning kalitidir.",
+    "author": "Hazrat Ali"
+  },
+  {
+    "quote": "Do'stingni sinovda tanigin.",
+    "author": "Hazrat Ali"
+  },
+  {
+    "quote": "Kim o'zini tanisa, Robbisini ham taniydi.",
+    "author": "Hazrat Ali"
+  },
+  {
+    "quote": "Insonning tili - uning aqlining tarozisi.",
+    "author": "Hazrat Ali"
+  },
+  {
+    "quote": "Ilm - amalning yo'lboshchisi.",
+    "author": "Hazrat Ali"
+  },
+  {
+    "quote": "Har kim o'z ishining ustasi bo'lsin.",
+    "author": "Xalq hikmati"
+  },
+  {
+    "quote": "Aql yoshda emas, boshda.",
+    "author": "O'zbek maqoli"
+  },
+  {
+    "quote": "Bir kishi yig'lasa - g'am, ikki kishi kulsa - baxt.",
+    "author": "O'zbek maqoli"
+  },
+  {
+    "quote": "Kelajak - bugungi mehnatning mevasi.",
+    "author": "O'zbek hikmati"
+  },
+  {
+    "quote": "Yaxshi so'z tosh yoradi.",
+    "author": "O'zbek maqoli"
+  },
+  {
+    "quote": "Ishonch - do'stlikning poydevori.",
+    "author": "O'zbek hikmati"
+  },
+  {
+    "quote": "Bir guldan bahor bo'lmas.",
+    "author": "O'zbek maqoli"
+  },
+  {
+    "quote": "O'qigan bilan o'qimagan teng emas.",
+    "author": "O'zbek maqoli"
+  },
+  {
+    "quote": "Bilagi yo'g'on birni yiqar, bilimi yo'g'on mingni yiqar.",
+    "author": "O'zbek maqoli"
+  },
+  {
+    "quote": "Vatan sog'inchi - eng qattiq dard.",
+    "author": "O'zbek hikmati"
+  },
+  {
+    "quote": "Onaning duosi - farzandning omoni.",
+    "author": "O'zbek hikmati"
+  },
+  {
+    "quote": "Ishlagan tishlar.",
+    "author": "O'zbek maqoli"
+  },
+  {
+    "quote": "Yolg'iz otning changi chiqmas.",
+    "author": "O'zbek maqoli"
+  },
+  {
+    "quote": "Bahor kelmasa gul ochilmas, sabr qilmasa - murod topilmas.",
+    "author": "O'zbek hikmati"
+  },
+  {
+    "quote": "Odob - eng katta boylik.",
+    "author": "Sharq hikmati"
+  },
+  {
+    "quote": "Kimning oyog'i tez, uning yo'li uzoq.",
+    "author": "Sharq maqoli"
+  },
+  {
+    "quote": "Bugun ekkaning ertaga hosildir.",
+    "author": "Sharq hikmati"
+  },
+  {
+    "quote": "Zakovat - Xudoning eng katta ne'mati.",
+    "author": "Sharq hikmati"
+  },
+  {
+    "quote": "Kambag'al bo'lish ayb emas, tanballik aybdir.",
+    "author": "Sharq hikmati"
+  },
+  {
+    "quote": "Har bir daraxt mevasidan tanilar, har bir inson ishidan.",
+    "author": "Sharq hikmati"
+  },
+  {
+    "quote": "Muvaffaqiyat sirlaridan biri - hech qachon to'xtamaslik.",
+    "author": "Konrad Xilton"
+  },
+  {
+    "quote": "Yulduzlarga intiling, hech bo'lmasa daraxt uchiga yetasiz.",
+    "author": "Amerika maqoli"
+  },
+  {
+    "quote": "Muvaffaqiyat tayyorgarlikni sevadi.",
+    "author": "Lui Paster"
+  },
+  {
+    "quote": "Imkoniyat tayyor aqlga tegishli.",
+    "author": "Lui Paster"
+  },
+  {
+    "quote": "Ilm-fan chegara bilmaydi, chunki bilim insoniyatga tegishli.",
+    "author": "Lui Paster"
+  },
+  {
+    "quote": "Katta orzular katta jasorat talab qiladi.",
+    "author": "Uinston Cherchill"
+  },
+  {
+    "quote": "Muvaffaqiyat - qiziqishni yo'qotmasdan muvaffaqiyatsizlikdan muvaffaqiyatsizlikka o'tishdir.",
+    "author": "Uinston Cherchill"
+  },
+  {
+    "quote": "Biz nima olishimiz bilan yashaymiz, nima berishimiz bilan hayot quramiz.",
+    "author": "Uinston Cherchill"
+  },
+  {
+    "quote": "Kelajak noaniqlik bilan to'la, ammo imkoniyat bilan ham to'la.",
+    "author": "Uinston Cherchill"
+  },
+  {
+    "quote": "Munosib maqsad - hayotning ma'nosidir.",
+    "author": "Aristotel"
+  },
+  {
+    "quote": "Baxt - tashqi sharoitga emas, ichki holatga bog'liq.",
+    "author": "Dalay Lama"
+  },
+  {
+    "quote": "Mehr-shafqat - kuchsizlik emas, kuchning belgisidir.",
+    "author": "Dalay Lama"
+  },
+  {
+    "quote": "Har bir kishi baxtga intiladi, buning yagona yo'li - mehribonlikdir.",
+    "author": "Dalay Lama"
+  },
+  {
+    "quote": "Sog'lom aql - sog'lom tanadan boshlanadi.",
+    "author": "Dalay Lama"
+  },
+  {
+    "quote": "Boshqalarga yordam bering, agar imkoningiz bo'lsa. Bo'lmasa, hech bo'lmasa zarar yetkazmang.",
+    "author": "Dalay Lama"
+  },
+  {
+    "quote": "Bilim va mehr-shafqat - ikki qanotdir.",
+    "author": "Dalay Lama"
+  },
+  {
+    "quote": "Har bir qiyinchilik - o'sishga bir imkoniyatdir.",
+    "author": "Dalay Lama"
+  },
+  {
+    "quote": "Sokinlik - kuchning belgisidir.",
+    "author": "Lao Szi"
+  },
+  {
+    "quote": "Tabiat shoshilmaydi, lekin hamma narsa o'z vaqtida bajariladi.",
+    "author": "Lao Szi"
+  },
+  {
+    "quote": "Yumshoqlik qattiqlikni yengadi.",
+    "author": "Lao Szi"
+  },
+  {
+    "quote": "Bilim - o'zini bilishdan boshlanadi.",
+    "author": "Lao Szi"
+  },
+  {
+    "quote": "Kuch - boshqalarni yengishda emas, o'zini yengishda.",
+    "author": "Lao Szi"
+  },
+  {
+    "quote": "Buyuk safar bir qadamdan boshlanadi.",
+    "author": "Lao Szi"
+  },
+  {
+    "quote": "Kamtarlik - buyuklikning belgisidir.",
+    "author": "Lao Szi"
+  },
+  {
+    "quote": "Suv eng yumshoq narsa, lekin eng qattiq toshni yemiradi.",
+    "author": "Lao Szi"
+  },
+  {
+    "quote": "Bilim olamning kaliti, mehr-shafqat esa yuragi.",
+    "author": "Konfutsiy"
+  },
+  {
+    "quote": "Yaxshilik qilishdan charchamang.",
+    "author": "Injil"
+  },
+  {
+    "quote": "Kim ekkanini o'radi.",
+    "author": "Injil"
+  },
+  {
+    "quote": "Sevgi - eng buyuk kuchdir.",
+    "author": "Injil"
+  },
+  {
+    "quote": "Ishonch - ko'rmagan narsaga umid bog'lashdir.",
+    "author": "Injil"
+  },
+  {
+    "quote": "Kim izlasa, topadi.",
+    "author": "Injil"
+  },
+  {
+    "quote": "Muvaffaqiyat - g'alaba emas, davom etish qobiliyatidir.",
+    "author": "Ueyn Dayer"
+  },
+  {
+    "quote": "O'zgartira olmagan narsangizni qabul qiling, o'zgartira oladiganingizni o'zgartiring.",
+    "author": "Reinhold Nibur"
+  },
+  {
+    "quote": "Har bir zulmat tongdan oldingi eng qorong'i paytdir.",
+    "author": "Tomas Fuller"
+  },
+  {
+    "quote": "Kim ko'p ishonsa, ko'p yutadi.",
+    "author": "Uilyam Jeyms"
+  },
+  {
+    "quote": "Fikrlaringiz - so'zlaringizga, so'zlaringiz - harakatlaringizga aylanadi.",
+    "author": "Mahatma Gandi"
+  },
+  {
+    "quote": "O'zgarishni dunyoda ko'rmoqchi bo'lsangiz, avval o'zingiz o'sha o'zgarish bo'ling.",
+    "author": "Mahatma Gandi"
+  },
+  {
+    "quote": "Zaiflar hech qachon kechira olmaydi. Kechirish - kuchlilarning fazilati.",
+    "author": "Mahatma Gandi"
+  },
+  {
+    "quote": "Yashash - boshqalar uchun yashashdir.",
+    "author": "Mahatma Gandi"
+  },
+  {
+    "quote": "Kuch jismoniy qobiliyatdan emas, mag'lubiyatga uchramas iroda kuchidan keladi.",
+    "author": "Mahatma Gandi"
+  },
+  {
+    "quote": "Xato qilish huquqiga ega bo'lmasangiz, erkin emassiz.",
+    "author": "Mahatma Gandi"
+  },
+  {
+    "quote": "Har bir kichik harakat katta o'zgarishga olib kelishi mumkin.",
+    "author": "Mahatma Gandi"
+  },
+  {
+    "quote": "Sevgi - eng kuchli qurol.",
+    "author": "Mahatma Gandi"
+  },
+  {
+    "quote": "Har kim o'z hayotining muallifi.",
+    "author": "Jan-Pol Sartr"
+  },
+  {
+    "quote": "Erkinlik - tanlov qilish qobiliyatidir.",
+    "author": "Jan-Pol Sartr"
+  },
+  {
+    "quote": "Inson - o'z tanlovlarining yig'indisidir.",
+    "author": "Jan-Pol Sartr"
+  },
+  {
+    "quote": "Hayotning ma'nosi yo'q, biz unga ma'no beramiz.",
+    "author": "Jan-Pol Sartr"
+  },
+  {
+    "quote": "Baxt - safar, manzil emas.",
+    "author": "Roy Gudman"
+  },
+  {
+    "quote": "Kim о'zgarishdan qo'rqsa, o'sishdan ham qo'rqadi.",
+    "author": "Anonim"
+  },
+  {
+    "quote": "Har bir kun - yangi imkoniyat, uni qo'ldan boy bermang.",
+    "author": "Anonim"
+  },
+  {
+    "quote": "Muvaffaqiyat - har kuni kichik g'alabalar yig'indisi.",
+    "author": "Anonim"
+  },
+  {
+    "quote": "Ishonch bilan qadam tashla, yo'l o'zi ko'rinadi.",
+    "author": "Martin Luther King"
+  },
+  {
+    "quote": "Zulmatni zulmat bilan haydab bo'lmaydi, faqat yorug'lik bilan.",
+    "author": "Martin Luter King"
+  },
+  {
+    "quote": "Muhabbatni nafrat bilan yengib bo'lmaydi, faqat muhabbat bilan.",
+    "author": "Martin Luter King"
+  },
+  {
+    "quote": "Har bir odamning qadr-qimmati bor.",
+    "author": "Martin Luter King"
+  },
+  {
+    "quote": "Menda orzu bor.",
+    "author": "Martin Luter King"
+  },
+  {
+    "quote": "O'lchov - qiyinchilik paytidagi turishingizdir.",
+    "author": "Martin Luter King"
+  },
+  {
+    "quote": "Adolat kechiktirilsa, adolat rad etilgan bo'ladi.",
+    "author": "Martin Luter King"
+  },
+  {
+    "quote": "Ta'lim - jamiyatning eng kuchli quroli.",
+    "author": "Martin Luter King"
+  },
+  {
+    "quote": "Kim jasoratli bo'lsa, qo'rquvni yengadi.",
+    "author": "Martin Luter King"
+  },
+  {
+    "quote": "Insonni baholaydigan narsa - qiyin paytlardagi pozitsiyasidir.",
+    "author": "Martin Luter King"
+  },
+  {
+    "quote": "Muvaffaqiyat - tinimsiz mehnat va sabrning natijasidir.",
+    "author": "Kolin Pauell"
+  },
+  {
+    "quote": "Liderlik - odamlarni ilhomlantirish san'atidir.",
+    "author": "Jon Maksvell"
+  },
+  {
+    "quote": "Kim boshqalarga xizmat qilsa, u haqiqiy lider.",
+    "author": "Jon Maksvell"
+  },
+  {
+    "quote": "Muvaffaqiyat - tayyorgarlik, mehnat va sabr yig'indisi.",
+    "author": "Kolin Pauell"
+  },
+  {
+    "quote": "Har bir buyuk yutuq - kichik qadamlar zanjiridan iborat.",
+    "author": "Robert Kollier"
+  },
+  {
+    "quote": "Vaqtni boshqarish - hayotni boshqarishdir.",
+    "author": "Piter Draker"
+  },
+  {
+    "quote": "Kim o'z vaqtini qadrlasa, hayotini qadrlaydi.",
+    "author": "Piter Draker"
+  },
+  {
+    "quote": "Bilim - amal qilinganda kuchga aylanadi.",
+    "author": "Piter Draker"
+  },
+  {
+    "quote": "Eng yaxshi tarzda kelajakni bashorat qilish - uni yaratishdir.",
+    "author": "Piter Draker"
+  },
+  {
+    "quote": "Muvaffaqiyat uchun avval o'zingizni tushunishingiz kerak.",
+    "author": "Karl Yung"
+  },
+  {
+    "quote": "Ong ostidagi narsalar hayotimizni boshqaradi, agar biz ularni ongimizga chiqarmasak.",
+    "author": "Karl Yung"
+  },
+  {
+    "quote": "Sizning ko'rgan olamingiz - sizning ichki dunyoingizning aksidir.",
+    "author": "Karl Yung"
+  },
+  {
+    "quote": "Har bir inson ikkita hayot yashaydi - biri o'zi uchun, biri boshqalar uchun.",
+    "author": "Karl Yung"
+  },
+  {
+    "quote": "Baxt - ichki muvozanatning natijasidir.",
+    "author": "Karl Yung"
+  },
+  {
+    "quote": "Kim o'zini bilsa, dunyoni ham biladi.",
+    "author": "Karl Yung"
+  },
+  {
+    "quote": "Yorug'likka erishish - qorong'ilikni yoritish emas, uni anglashdir.",
+    "author": "Karl Yung"
+  },
+  {
+    "quote": "Bilim - insonni erkin qiladi.",
+    "author": "Anonim"
+  },
+  {
+    "quote": "Har bir kishi o'z hayotining rejissyoridir.",
+    "author": "Anonim"
+  },
+  {
+    "quote": "Muvaffaqiyat tasodifiy emas, u tanlangan yo'l natijasidir.",
+    "author": "Anonim"
+  },
+  {
+    "quote": "Kim to'xtasa, yutqazadi, kim davom etsa, albatta yutadi.",
+    "author": "Anonim"
+  },
+  {
+    "quote": "Yaxshi niyat bilan boshlangan ish yarim bajarilgan hisoblanadi.",
+    "author": "Anonim"
+  },
+  {
+    "quote": "Hayot - siz uni qanday yashaganingizga bog'liq.",
+    "author": "Anonim"
+  },
+  {
+    "quote": "Har bir muvaffaqiyat orqasida ko'rinmas mehnat yotadi.",
+    "author": "Anonim"
+  },
+  {
+    "quote": "Ishonch bo'lmasa, hech narsa mumkin emas.",
+    "author": "Anonim"
+  },
+  {
+    "quote": "Sabr va mehnat - hamma to'siqlarni yengadi.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "quote": "Vaqtni behuda o'tkazish - hayotni behuda o'tkazishdir.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "quote": "Investitsiya qilingan bilim eng katta foyda beradi.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "quote": "Kichik xarajatlar katta kemalarni cho'ktiradi.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "quote": "Vaqtni yo'qotgan - hamma narsani yo'qotadi.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "quote": "Ertaga qilishingiz mumkin bo'lgan ishni bugunga qoldirmang.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "quote": "Bilim - eng yaxshi sarmoyadir.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "quote": "Har bir tugash - yangi boshlanishdir.",
+    "author": "Anonim"
+  },
+  {
+    "quote": "Kim orzu qilishni to'xtatsa, yashashni ham to'xtatadi.",
+    "author": "Anonim"
+  },
+  {
+    "quote": "Kichik qadamlar katta masofalarni bosib o'tadi.",
+    "author": "Anonim"
+  },
+  {
+    "quote": "Bugungi qiyinchilik - ertangi kuchdir.",
+    "author": "Anonim"
+  },
+  {
+    "quote": "Har bir muammo - yashiringan imkoniyatdir.",
+    "author": "Anonim"
+  },
+  {
+    "quote": "Ishonch bilan boshlangan ish yarmi bajarilgan.",
+    "author": "Anonim"
+  },
+  {
+    "quote": "Kim ko'p sinasa, ko'p o'rganadi.",
+    "author": "Anonim"
+  },
+  {
+    "quote": "Xatolar - eng yaxshi o'qituvchidir.",
+    "author": "Anonim"
+  },
+  {
+    "quote": "Har kim o'z baxtining kalitini o'zi yaratadi.",
+    "author": "Anonim"
+  },
+  {
+    "quote": "Kuchli odam - his-tuyg'ularini boshqara oladigan odamdir.",
+    "author": "Anonim"
+  },
+  {
+    "quote": "Yutuq - kichik g'alabalarning yig'indisidir.",
+    "author": "Anonim"
+  },
+  {
+    "quote": "Har bir yangi kun - yangi imkoniyat.",
+    "author": "Anonim"
+  },
+  {
+    "quote": "Fikrlash tarzingiz - kelajagingizni belgilaydi.",
+    "author": "Anonim"
+  },
+  {
+    "quote": "Muvaffaqiyat sabr talab qiladi, shoshqaloqlik esa uni qochiradi.",
+    "author": "Anonim"
+  },
+  {
+    "quote": "Kim tinmay mehnat qilsa, oxir-oqibat g'alaba qozonadi.",
+    "author": "Anonim"
+  },
+  {
+    "quote": "Yaxshi odat - kelajakdagi muvaffaqiyat poydevori.",
+    "author": "Anonim"
+  },
+  {
+    "quote": "Bilim behuda emas, uni qo'llash muhim.",
+    "author": "Anonim"
   }
 ]
