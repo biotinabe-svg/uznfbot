@@ -1,0 +1,10 @@
+name: keepalive
+on:
+  schedule:
+    - cron: '0 0 1 * *'   # har oyning 1-kunida ishga tushadi
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: efrecon/gh-action-keepalive@main
