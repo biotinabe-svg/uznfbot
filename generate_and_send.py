@@ -78,10 +78,6 @@ def render_quote_image(quote_text, author, out_path):
     img = make_gradient(W, H, (24, 28, 52), (55, 33, 92))
     draw = ImageDraw.Draw(img)
 
-    # Katta bezak qo'shtirnoq
-    deco_font = ImageFont.truetype(str(FONTS_DIR / "DejaVuSans-Bold.ttf"), 220)
-    draw.text((70, 40), "\u201C", font=deco_font, fill=(255, 255, 255, 40))
-
     margin_x = 110
     max_text_width = W - 2 * margin_x
     max_text_height = 560
@@ -179,3 +175,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
