@@ -1,27 +1,28 @@
-name: Daily Quote to Telegram
+name: Send Daily Exchange Rates and Weather
 
 on:
   schedule:
-    - cron: "0 2 * * *"
+    # Har kuni Toshkent vaqti bilan 11:00 da (UTC 06:00) ishlaydi
+    - cron: '0 6 * * *'
   workflow_dispatch:
 
 jobs:
-  send-quote:
+  send-rates:
     runs-on: ubuntu-latest
     steps:
-      - name: Repo-ni yuklab olish
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Python o'rnatish
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: '3.x'
 
-      - name: Kutubxonalarni o'rnatish
+      - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Iqtibosni yuborish
+      - name: Run Python script
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
-        run: python generate_and_send.py
+        run: python main.py
