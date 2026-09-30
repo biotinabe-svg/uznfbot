@@ -2,8 +2,8 @@ name: Send Daily Exchange Rates and Weather
 
 on:
   schedule:
-    # Har kuni Toshkent vaqti bilan 11:00 da (UTC 06:00) ishlaydi
-    - cron: '0 6 * * *'
+    # 05:00 UTC o'rniga 04:48 UTC (Toshkent vaqti bilan 09:48)
+    - cron: '48 4 * * *'
   workflow_dispatch:
 
 jobs:
